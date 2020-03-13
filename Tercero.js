@@ -1,1 +1,9 @@
-console.log("Hola");
+var puerta={
+    let abrirse:function(){
+        move.visagra
+    }
+}
+
+
+
+

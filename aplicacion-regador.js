@@ -1,5 +1,6 @@
 function(tiempo,humedad,agua){
-    if humedad<30% {
-        agua.riego
+    if (tiempo>30){
+        return bajartemperatura.js
+
     }
-}
+    }
